@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">reddit-pagging</string>
+    <string name="app_name">reddit-paging</string>
+    <string name="loading">loading</string>
+    <string name="undefined">-</string>
 </resources>
