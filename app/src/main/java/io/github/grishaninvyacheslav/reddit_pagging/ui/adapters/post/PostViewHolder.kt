@@ -11,14 +11,14 @@ class PostViewHolder(
     override val pos: Int = -1
 
     override fun setTitle(title: String) {
-        // TODO("Not yet implemented")
+        binding.title.text = title
     }
 
     override fun setRating(rating: String) {
-        // TODO("Not yet implemented")
+        binding.rating.text = rating
     }
 
     override fun setCommentCount(commentCount: String) {
-        // TODO("Not yet implemented")
+        binding.commentCount.text = commentCount
     }
 }
