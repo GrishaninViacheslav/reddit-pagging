@@ -2,7 +2,7 @@ package io.github.grishaninvyacheslav.reddit_pagging.ui.adapters.post
 
 import androidx.paging.PagingSource
 import androidx.paging.PagingState
-import io.github.grishaninvyacheslav.reddit_pagging.domain.entities.PostData
+import io.github.grishaninvyacheslav.reddit_pagging.domain.entities.dtos.PostData
 import io.github.grishaninvyacheslav.reddit_pagging.domain.models.repository.NETWORK_PAGE_SIZE
 import io.github.grishaninvyacheslav.reddit_pagging.domain.models.repository.RedditListingService
 import retrofit2.HttpException

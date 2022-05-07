@@ -1,7 +1,7 @@
 package io.github.grishaninvyacheslav.reddit_pagging.domain.models.repository
 
 import androidx.paging.PagingData
-import io.github.grishaninvyacheslav.reddit_pagging.domain.entities.PostData
+import io.github.grishaninvyacheslav.reddit_pagging.domain.entities.dtos.PostData
 import kotlinx.coroutines.flow.Flow
 
 interface IRedditListingRepository {

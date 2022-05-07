@@ -1,4 +1,4 @@
-package io.github.grishaninvyacheslav.reddit_pagging.domain.entities
+package io.github.grishaninvyacheslav.reddit_pagging.domain.entities.dtos
 
 import com.google.gson.annotations.SerializedName
 

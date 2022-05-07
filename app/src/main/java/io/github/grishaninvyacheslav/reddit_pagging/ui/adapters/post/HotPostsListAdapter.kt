@@ -4,7 +4,7 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.paging.PagingDataAdapter
 import io.github.grishaninvyacheslav.reddit_pagging.databinding.ItemPostBinding
-import io.github.grishaninvyacheslav.reddit_pagging.domain.entities.PostData
+import io.github.grishaninvyacheslav.reddit_pagging.domain.entities.dtos.PostData
 
 class HotPostsListAdapter(
     private val dataModel: IHotPostsDataModel,

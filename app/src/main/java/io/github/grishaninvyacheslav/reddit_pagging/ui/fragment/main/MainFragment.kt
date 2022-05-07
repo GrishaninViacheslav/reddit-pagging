@@ -6,7 +6,7 @@ import androidx.lifecycle.lifecycleScope
 import androidx.recyclerview.widget.LinearLayoutManager
 import io.github.grishaninvyacheslav.reddit_pagging.R
 import io.github.grishaninvyacheslav.reddit_pagging.databinding.FragmentMainBinding
-import io.github.grishaninvyacheslav.reddit_pagging.domain.entities.PostData
+import io.github.grishaninvyacheslav.reddit_pagging.domain.entities.dtos.PostData
 import io.github.grishaninvyacheslav.reddit_pagging.ui.BaseFragment
 import io.github.grishaninvyacheslav.reddit_pagging.ui.adapters.post.HotPostsListAdapter
 import io.github.grishaninvyacheslav.reddit_pagging.ui.adapters.post.IHotPostsDataModel
